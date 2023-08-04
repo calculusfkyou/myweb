@@ -1,0 +1,9 @@
+.news-contents {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    font-family: Courier, monospace,'Courier New';
+}
+.ad{
+    height:1308.58px;
+}

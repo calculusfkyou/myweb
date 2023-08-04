@@ -1,0 +1,19 @@
+.post-title{
+    margin-left: 0px;
+}
+.link{
+    font-size:20px;
+    text-align: left;
+}
+.par{
+    width:125px;
+    height:25px;
+    line-height:30px;
+    overflow:hidden;
+}
+.par .show:hover{
+    padding-top:30px;    
+}
+.par .hover-show{
+    margin-top:-60px;
+}
